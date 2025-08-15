@@ -14,38 +14,6 @@ Each section lives in `/sections/*.html` and is dynamically loaded into `index.h
 
 ---
 
-## 📁 Folder Structure
-```
-index.html
-style.css
-mediaqueries.css
-script.js
-assets/
-  profile_pic.png
-  about-pic.jpg
-  experience.png
-  education.png
-  linkedin.png
-  github.png
-  checkmark.png
-  project-1.png
-  project-2.png
-  project-3.png
-  arrow.png
-  email.png
-  raviteja_resume.pdf
-sections/
-  header.html
-  profile.html
-  about.html
-  skills.html
-  experience.html
-  projects.html
-  contact.html
-  footer.html
-```
-
----
 
 ## 🚀 Getting Started
 
