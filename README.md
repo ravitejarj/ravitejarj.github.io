@@ -12,8 +12,3 @@ Each section lives in `/sections/*.html` and is dynamically loaded into `index.h
 Atlanta, GA • +1 (334) 354‑5864 • ravitejarj25@gmail.com  
 LinkedIn: https://www.linkedin.com/in/raviteja-kalavena-548645158/  
 GitHub: https://github.com/ravitejarj
-
----
-
-## 📝 License
-This project is open‑sourced under the MIT License. Feel free to use and adapt.
