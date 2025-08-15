@@ -1,10 +1,5 @@
 # Raviteja Kalavena — Portfolio
 
-A clean, split‑section portfolio website built from simple HTML/CSS/JS.  
-Each section lives in `/sections/*.html` and is dynamically loaded into `index.html` with `fetch()` for fast editing and reuse.
-
----
-
 ---
 
 ## 🧑‍💻 Author
