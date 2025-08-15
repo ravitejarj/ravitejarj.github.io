@@ -101,3 +101,10 @@
     text-align: justify;
   }
 }
+
+/* Let phone + email wrap nicely on small screens */
+.contact-inline{ flex-wrap:wrap; gap:.5rem .75rem; }
+
+/* Full-width CTAs on tiny screens */
+.btn{ min-width: unset; width: 100%; max-width: 320px; }
+.btn-container{ flex-direction: column; align-items: center; }
